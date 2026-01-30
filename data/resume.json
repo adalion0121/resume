@@ -2,42 +2,21 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "周俊",
-        "description": "岂能尽如人意，但求无愧我心",
-        "school": "中山大学",
+        "name": "蔡文杰",
+        "school": "锦江学院",
         "profession": "计算机科学与技术",
         "sex": "男",
         "education" : "本科",
-        "workage": "2012届毕业",
-        "phone": "15088888888",
-        "email": "tonjayin@gmail.com"
+        "workage": "2026届毕业",
+        "phone": "1872872862",
+        "email": "cwj01210121@gmail.com"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/adalion0121",
             "icon": ""
         },
-        {
-            "type": "weibo",
-            "link": "http://weibo.com",
-            "icon": ""
-        },
-        {
-            "type": "linkedin",
-            "link": "https://www.linkedin.com",
-            "icon": ""
-        },
-        {
-            "type": "twitter",
-            "link": "https://twitter.com",
-            "icon": ""
-        },
-        {
-            "type": "home",
-            "link": "https://github.com/Jayin",
-            "icon": ""
-        }
     ],
     "Awards": [
         {
@@ -58,72 +37,51 @@
     ],
     "socialExperiences": [
         {
-            "name": "加入XX移动开发工作室",
-            "name_link": "https://github.com/Jayin",
-            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，东莞培训中心App，轻会议等多款产品"
+            "name": "加入学院官网开发小组",
+
+            "description": "在学院老师领导下，参与开发学校官网"
         },
-        {
-            "name": "组织X次校内开发者交流会",
-            "name_link": "https://github.com/Jayin",
-            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
-        }
+
     ],
     "InternExperiences": [
         {
-            "name": "深圳XX网络科技有限公司",
+            "name": "宁波索为公司",
             "name_link": "",
             "title": "前端开发工程师",
             "icon": "",
-            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
-            "time": "2015.04 - 2015.09",
-            "location": "广东 深圳"
+            "description": "参与公司核心产品的开发工作，包括不限于前端开发，python算法，FreeCad、abaqus等软件二次开发",
+            "time": "2025.06 - 至今",
+            "location": "四川 成都"
         },
-        {
-            "name": "深圳XXX网络科技有限公司",
-            "name_link": "",
-            "title": "PHP开发工程师",
-            "icon": "",
-            "description": "基于开源商城系统OpenCart二次开发一外贸商城",
-            "time": "2014.07 - 2014.08",
-            "location": "广东 江门"
-        }
     ],
     "ProjectExperience": [
         {
-            "name": "XTips",
-            "name_link": "https://github.com/Jayin",
-            "title": "Android App, 作者",
+            "name": "solvi-AIAE",
+            "name_link": "https://solvi-ai.com/products",
+            "title": "Javascript,vue,electron,python,主研",
             "icon": "",
-            "description": "中山大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
-            "time": "2013.07 - 至今",
+            "description": "负责全栈开发，使用python编写数据提取算法，为ai训练提供数据集，提升ai训练效率，，使用flask编写网络接口，使用threejs实现预测模型，同时页面流程无卡顿",
+            "time": "2025.06 - 2025-10",
+            "location": ""
+        },
+		{
+            "name": "成飞热安全实验平台",
+            "title": "JavaScript, vue,element-plus,electron,主研",
+            "icon": "",
+            "description": "主要负责前端工作,设计通用组件，静态页面编写，基于sqlite3设计数据库",
+            "time": "2025.08 - 2025.10",
             "location": ""
         },
         {
-            "name": "XX技能培训中心",
-            "name_link": "",
-            "title": "Android App/PHP后端, 项目负责人",
+            "name": "Solvi——AICAD",
+            "name_link": "https://solvi-ai.com/products",
+            "title": "Javascript,vue,electron,python,项目负责人",
             "icon": "",
-            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
-            "time": "2014.08 - 2014.12",
+            "description": "负责全栈开发，使用electron搭建整个项目框架，基于freecad二次开发，使用python编写核心库",
+            "time": "2025.10 - 至今",
             "location": ""
         },
-        {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
-            "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
-            "location": ""
-        },
-        {
-            "name": "更多",
-            "name_link": "https://github.com/Jayin",
-            "title": "",
-            "icon": "",
-            "description": "",
-            "time": "",
-            "location": ""
-        }
+
+
     ]
 }
